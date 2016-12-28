@@ -1,0 +1,70 @@
+Reference type variable:-
+
+obj1={name:'sanjeev',age:24}
+
+
+Object {name: "sanjeev", age: 24}
+
+
+obj2=obj1
+
+
+Object {name: "sanjeev", age: 24}
+
+
+obj2
+
+
+Object {name: "sanjeev", age: 24}
+
+
+obj2.name='aman'
+
+
+"aman"
+
+
+obj1
+
+
+Object {name: "aman", age: 24}
+____________________________________________________________-
+
+Primitive type variable:-
+
+var a=10
+
+
+undefined
+
+
+var b=a
+
+
+undefined
+
+
+b
+
+
+
+10
+
+
+var b=6
+
+
+undefined
+
+
+a
+
+
+10
+
+
+b
+
+
+6
+______________________________________________________________
